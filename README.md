@@ -9,4 +9,4 @@ Project that based on styling.
 ```
 HTML5 CSS3
 
-[](kader.gif)
+![](kader.gif)
